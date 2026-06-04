@@ -18,7 +18,7 @@ A conversational AI chatbot built using **LangGraph**, **LangChain**, and **Hugg
 * LangChain
 * Hugging Face
 * SQLite
-* Python Dotenv
+
 
 ## Installation
 
