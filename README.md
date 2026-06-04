@@ -87,12 +87,18 @@ Bot: LangGraph is a framework for building stateful AI applications using graph-
 ```text
 LangGraph-Chatbot/
 │
-├── app.py
-├── requirements.txt
-├── .env
-├── chats.db
-├── README.md
-└── checkpoints/
+├── chatbot.db
+├── chatbot.db-shm
+├── chatbot.db-wal
+├── __pycache__/ 
+    └── langgraph_backend.cpython-314.pyc
+├── requirements.txt 
+├── .codesight/ 
+    └── default.json 
+├── README.md 
+├── langgraph_backend.py 
+├── streamlit_frontend.py 
+└── 1_basic_chatbot.ipynb 
 ```
 
 ## Learning Outcomes
